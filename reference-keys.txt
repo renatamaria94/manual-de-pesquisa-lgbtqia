@@ -1,4 +1,3 @@
-sobre-este-manual
 pesquisa-quantitativa---survey
 introdução
 ética
@@ -32,7 +31,12 @@ encerramento
 amostra
 distribuição-da-amostra-por-bairro-e-rpa
 fluxo-operacional
-planejamento-operacional
+aplicação-do-pré-teste
+coleta-em-campo-survey
+monitoramento-em-tempo-real
+supervisão-e-controle-de-qualidade
+coleta-qualitativa
+consolidação-dos-dados
 acompanhamento-de-cotas-durante-a-coleta-de-campo
 lógica-geral-do-acompanhamento
 como-interpretar-a-situação-das-cotas
@@ -42,3 +46,4 @@ rota-de-coleta
 mapa-interativo-das-rotas-de-campo
 mapeamento-de-riscos-e-dificuldades-da-coleta
 rotina-diária-do-entrevistador
+protocolos-críticos
