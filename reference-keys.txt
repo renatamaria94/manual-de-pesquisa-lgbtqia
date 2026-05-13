@@ -30,6 +30,7 @@ após-o-grupo-focal
 encerramento
 amostra
 distribuição-da-amostra-por-bairro-e-rpa
+mapa-interativo
 fluxo-operacional
 aplicação-do-pré-teste
 coleta-em-campo-survey
